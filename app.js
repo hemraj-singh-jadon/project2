@@ -4,9 +4,9 @@ let btn1 = document.querySelector("#btn1")
 let btn2 = document.querySelector("#btn2")
 
 btn1.addEventListener("click",()=> {
-    h1.style.color = 'magents'
+    h1.style.color = 'magenta'
 })
 
 btn2.addEventListener("click",()=> {
-    h3.style.color = 'pink'
+    h3.style.color = 'skyblue'
 })
